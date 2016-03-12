@@ -1,7 +1,7 @@
 name: Startupswagger.io
 favicon: null
-layout_spectrum: 0.21701344405300915
-typography_spectrum: 0.9035146972164512
+layout_spectrum: 0.14379
+typography_spectrum: 0.22336
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.22632560064084828
-  lightness: 0.7685937294736505
-  saturation: 0.6535061104223132
-  rhythmicContrast: 0.8780760599765927
+    - '#000000'
+    - '#ffffff'
+    - '#808143'
+    - '#c32b5d'
+    - '#003b83'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
